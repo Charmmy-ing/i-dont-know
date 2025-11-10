@@ -1,0 +1,3 @@
+﻿  mess number.cpp
+D:\C\mess number\mess number\mess number.cpp(6,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  mess number.vcxproj -> D:\C\mess number\x64\Debug\mess number.exe
